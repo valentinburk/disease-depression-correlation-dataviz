@@ -1,15 +1,15 @@
-# Disease and Depression Rate Visualization
+# Disease Effect on Depression Rate Visualization
 
-This project presents a narrative visualization of the relationship between various diseases and depression rates in the United States from 2019 to 2022.
+This project presents a narrative visualization of the effect various diseases have on depression rates in the United States from 2019 to 2022.
 
 ## Project Overview
 
 ### Key Message
 
-This visualization communicates the complex relationship between various diseases and depression rates in the United States. It highlights:
+This visualization communicates the complex effect of various diseases on depression rates in the United States. It highlights:
 
-- Correlations between different health conditions and depression rates
-- How these relationships have evolved from 2019 to 2022
+- Which health conditions have biggest effect on depression rates
+- How this effect have evolved from 2019 to 2022
 - The multifaceted nature of each disease through detailed breakdowns
 - Varying prevalence of different diseases and their relative impact on public health
 
